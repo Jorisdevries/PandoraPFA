@@ -33,7 +33,7 @@ set(ExampleContent_repository "ExampleContent.git")
 
 set(PandoraSDK_version "origin/master")
 set(PandoraMonitoring_version "origin/master")
-set(LArContent_version "origin/master")
+set(LArContent_version "feature/spacecharge")
 set(LCContent_version "origin/master")
 set(ExampleContent_version "origin/master")
 set(Eigen3_version "3.3.3")
